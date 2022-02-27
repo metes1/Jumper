@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Obstacle
+  - Mixed
+  - Portal
+  - NegGravPortal
+  - PosGravPortal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 168946557
+    locked: 0
+  - name: Midground
+    uniqueID: 794673649
+    locked: 0
+  - name: Foreground
+    uniqueID: 4070696829
+    locked: 0
+  - name: MostFore
+    uniqueID: 838239115
+    locked: 0
